@@ -12,10 +12,11 @@ if __name__ == "__main__":
     print("the sencnd number is ")
     print( num_2)
 
-    p_1 = math.log(num_1/3) / math,log(2) +2 
-    p_2 = math.log(num_2/3) / math,log(2) +2 
+    p_1 = math.log(num_1/3) / math,log(2) +2
+    p_2 = math.log(num_2/3) / math,log(2) +2
 
     result = p_1 * num_2 + p_2*num_1 - p_1*p_2
     print (result)
-    
+
     # test——push
+    # 12345
